@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/beckyaustin/BeckyHall/_apis/build/status/mydogaeroiscool.pipelines-java?branchName=master)](https://dev.azure.com/beckyaustin/BeckyHall/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
